@@ -45,11 +45,6 @@ Strong understanding of **business processes, reporting, and data-driven decisio
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=vikas-upadhyaya&show_icons=true)
-
----
-
 ## 📫 Connect
 - LinkedIn: [www.linkedin.com/in/vikasupadhyaya2]
 - Email: [vikasup2@gmail.com]
