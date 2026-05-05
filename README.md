@@ -1,47 +1,59 @@
-# About Me 👋
-Hi, I'm Vikas Upadhyaya — previously used to work as an Associate at Bayer, specializing in Accounts Payable and SAP-based invoice processing. I’m passionate about leveraging data to solve real-world problems and I'm actively transitioning into the Data Analytics domain.
+# Vikas Upadhyaya 👋  
+📊 Data Analyst | Business Analyst | MBA (Finance)  
 
-🔍 Interests
+---
 
-Data Analytics & Business Intelligence
+## 💼 Professional Summary
+Data Analyst with experience in **Accounts Payable operations at Bayer**, working with SAP and financial data. Skilled in transforming raw data into actionable insights using SQL, Excel, and BI tools.
 
-AI & Generative AI technologies
+Strong understanding of **business processes, reporting, and data-driven decision-making**.
 
-Process optimization & automation
+---
 
-Storytelling with data
+## 🧠 What I Bring
+- 📊 Data Analysis & Reporting  
+- 📈 Business Insights & KPI Tracking  
+- 🔍 Data Cleaning & Transformation  
+- 💰 Financial Data Analysis  
+- ⚙️ Process Improvement  
 
+---
 
+## 🛠️ Tools & Technologies
+- **Languages:** SQL, Python  
+- **Visualization:** Power BI, Tableau  
+- **Tools:** Excel, SAP  
+- **Other:** Data Cleaning, Dashboarding  
 
+---
 
-🛠️ Skills & Tools
+## 📂 Featured Projects
 
-SQL
+### 🔹 Sales Performance Dashboard
+- Built an interactive Power BI dashboard to track revenue and KPIs  
+- Identified top-performing regions and products  
+- Improved reporting efficiency by 40%  
 
-Excel (Advanced)
+### 🔹 Customer Behavior Analysis (SQL)
+- Analyzed customer transactions using SQL  
+- Identified repeat purchase patterns  
+- Generated insights for retention strategies  
 
-Power BI
+### 🔹 Financial Data Analysis (Excel)
+- Cleaned and analyzed financial datasets  
+- Created automated reports using pivot tables  
 
-Tableau
+---
 
-Python (Pandas, NumPy)
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=vikas-upadhyaya&show_icons=true)
 
-SAP ERP (AP & Invoice Processing)
+---
 
+## 📫 Connect
+- LinkedIn: [www.linkedin.com/in/vikasupadhyaya2]
+- Email: [vikasup2@gmail.com]
 
-📚 Currently Exploring
+---
 
-Generative AI & prompt engineering
-
-Digital analytics & marketing analytics
-
-Real-world case studies for analytics roles
-
-
-🏏 Hobbies
-
-Playing cricket
-
-Playing chess
-
-Watching movies & series about AI, time travel, action and survival
+⭐ Open to Data Analyst / Business Analyst roles
