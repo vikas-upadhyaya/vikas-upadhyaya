@@ -1,16 +1,47 @@
-## Hi there 👋
+# About Me 👋
+Hi, I'm Vikas Upadhyaya — previously used to work as an Associate at Bayer, specializing in Accounts Payable and SAP-based invoice processing. I’m passionate about leveraging data to solve real-world problems and I'm actively transitioning into the Data Analytics domain.
 
-<!--
-**vikas-upadhyaya/vikas-upadhyaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Interests
 
-Here are some ideas to get you started:
+Data Analytics & Business Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI & Generative AI technologies
+
+Process optimization & automation
+
+Storytelling with data
+
+
+
+
+🛠️ Skills & Tools
+
+SQL
+
+Excel (Advanced)
+
+Power BI
+
+Tableau
+
+Python (Pandas, NumPy)
+
+SAP ERP (AP & Invoice Processing)
+
+
+📚 Currently Exploring
+
+Generative AI & prompt engineering
+
+Digital analytics & marketing analytics
+
+Real-world case studies for analytics roles
+
+
+🏏 Hobbies
+
+Playing cricket
+
+Playing chess
+
+Watching movies & series about AI, time travel, action and survival
